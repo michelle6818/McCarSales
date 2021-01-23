@@ -28,6 +28,14 @@ namespace McCarSales.Controllers
             return View();
         }
 
+        //Add contact sheet to Home Controller and Views with the same commands as Index and Privacy
+
+        public IActionResult Contact()
+        {
+            return View();
+        }
+
+
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
         {

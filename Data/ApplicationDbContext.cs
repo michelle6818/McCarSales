@@ -14,5 +14,7 @@ namespace McCarSales.Data
         public DbSet<Car> Cars { get; set; }
 
         public DbSet<Lot> Lot { get; set; }
+
+        public DbSet<McCarSales.Models.Contact> Contact { get; set; }
     }
 }

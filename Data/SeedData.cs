@@ -31,7 +31,7 @@ namespace McCarSales.Data
                        {
                            Name = "Belmar Used Cars",
                            StreetAddress = "5th Avenue",
-                           ZipCode = "07717",
+                           ZipCode = "07719",
                            PhoneNumber = "732-885-1515",
                            ManagerName = "Leigh Walker"
                        }

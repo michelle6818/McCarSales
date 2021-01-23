@@ -461,3 +461,4 @@ C:\Users\Owner\source\repos\McCarSales\obj\Debug\net5.0\Razor\Views\Cars\Delete.
 C:\Users\Owner\source\repos\McCarSales\obj\Debug\net5.0\Razor\Views\Cars\Details.cshtml.g.cs
 C:\Users\Owner\source\repos\McCarSales\obj\Debug\net5.0\Razor\Views\Cars\Edit.cshtml.g.cs
 C:\Users\Owner\source\repos\McCarSales\obj\Debug\net5.0\Razor\Views\Cars\Index.cshtml.g.cs
+C:\Users\Owner\source\repos\McCarSales\obj\Debug\net5.0\Razor\Views\Home\Contact.cshtml.g.cs
