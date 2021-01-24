@@ -12,6 +12,8 @@ namespace McCarSales.Models
         public int LotId { get; set; }
         public virtual Lot Lot { get; set; }
 
+        //public string Count { get; set; }
+
         [StringLength(10, MinimumLength = 3)]
         public string Make { get; set; }
         [StringLength(30, MinimumLength = 3)]
